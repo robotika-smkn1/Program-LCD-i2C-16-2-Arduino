@@ -49,6 +49,15 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 ```bash
 
+/*
+ * 
+ * All the resources for this project: smkn1kotabekasi.sch.id
+ * Modified by Robotika smkn1 kotabekasi
+ * 
+ * Created by Robotika smkn1 kotabekasi
+ * 
+ */
+
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
