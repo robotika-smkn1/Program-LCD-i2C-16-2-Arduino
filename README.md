@@ -1,6 +1,6 @@
 
 # :pushpin: Program-LCD-i2C-16-2-Arduino
-# COMMING SOON
+
 
 <p align="center">
   <img src="https://i.postimg.cc/tRZw0xQ4/logo-removebg-preview.png" alt="robotika smkn1 kotabekasi logo"/ style="height:350px;" "width: 350px;">
