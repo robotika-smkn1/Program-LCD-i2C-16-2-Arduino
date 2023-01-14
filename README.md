@@ -37,7 +37,14 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
+# :briefcase: Barang & Bahan
+- Arduino Uno
+- Lcd i2c
+- I2c Module
+- Kabel Female & Male
+
 # :inbox_tray: Download Libary [ LiquidCristal ](https://drive.google.com/file/d/1__jesSJj6Ys0w4yy6LwjO2kineDm8PtT/view?usp=share_link)
+
 
 
 # :mag: Ilustrasi Arduino
